@@ -14,4 +14,3 @@ List of languages I understand well:
 - SQL
 - Terraform
 - Azure CLI
-- HTML / CSS
